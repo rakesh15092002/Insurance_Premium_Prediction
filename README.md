@@ -1,3 +1,4 @@
+````markdown
 # Insurance Premium Prediction
 
 A simple web application to predict insurance premiums based on user-provided data. This project uses a machine learning model to estimate the insurance cost.
@@ -79,3 +80,44 @@ To get a local copy up and running, follow these simple steps.
 ---
 
 ## 📂 File Structure
+
+````
+
+.
+├── config/                  \# Configuration files
+├── model/                   \# Trained machine learning model
+├── schema/                  \# Schema definitions
+├── .gitignore               \# Files to be ignored by Git
+├── Dockerfile               \# Docker configuration
+├── app.py                   \# Main application file
+└── requirements.txt         \# Project dependencies
+
+```
+
+---
+
+## 🤝 Contributing
+
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1.  Fork the Project
+2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4.  Push to the Branch (`git push origin feature/AmazingFeature`)
+5.  Open a Pull Request
+
+---
+
+## 📄 License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+---
+
+## 🙏 Acknowledgments
+
+* [Choose an Open Source License](https://choosealicense.com)
+* [Img Shields](https://shields.io)
+* [GitHub Pages](https://pages.github.com)
+
+```
